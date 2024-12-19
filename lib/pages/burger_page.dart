@@ -298,7 +298,7 @@ class _BurgersPageState extends State<BurgersPage> {
                     border: Border.all(color: Colors.purpleAccent, width: 3),
                     borderRadius: BorderRadius.circular(12),
                     image: DecorationImage(
-                      image: AssetImage('assets/cheese_burger.png'),
+                      image: AssetImage('assets/images/Burger.png'),
                       fit: BoxFit.cover,
                     ),
                   ),
@@ -408,10 +408,10 @@ class _BurgersPageState extends State<BurgersPage> {
                 scrollDirection: Axis.vertical,
                 child: Column(
                   children: [
-                    buildSmallBurgerImage('assets/Burger11.png'),
-                    buildSmallBurgerImage('assets/Burger22.png'),
-                    buildSmallBurgerImage('assets/Burger33.png'),
-                    buildSmallBurgerImage('assets/Burger44.png'),
+                    buildSmallBurgerImage('assets/images/Burger11.png'),
+                    buildSmallBurgerImage('assets/images/Burger22.png'),
+                    buildSmallBurgerImage('assets/images/Burger33.png'),
+                    buildSmallBurgerImage('assets/images/Burger44.png'),
                   ],
                 ),
               ),
