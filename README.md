@@ -56,3 +56,9 @@ lib/
 │   ├── login_screen.dart        # Login screen.
 │   └── sign_up_screen.dart      # Sign-up screen.
 ├── main.dart                    # Entry point of the app.
+
+
+
+#MOCK UP
+
+<img width="1086" alt="MockUp" src="https://github.com/user-attachments/assets/d80b1dc3-1178-452e-8869-817b233dfe9b" />
