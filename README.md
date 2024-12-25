@@ -61,4 +61,5 @@ lib/
 
 #MOCK UP
 
-<img width="1086" alt="MockUp" src="https://github.com/user-attachments/assets/d80b1dc3-1178-452e-8869-817b233dfe9b" />
+<img width="1086" alt="MockUp" src="https://github.com/user-attachments/assets/068bd085-b734-4bad-9de3-7bbf2eb94d79" />
+
