@@ -63,4 +63,15 @@ lib/
 
 <img width="1086" alt="MockUp" src="https://github.com/user-attachments/assets/d591ba64-a1d7-4810-a964-e1e6c6002053" />
 
+#This is my app mock up
+
+ ![Sana_mockup](https://github.com/user-attachments/assets/d2819e9e-c6cb-4bf1-8917-4a39e27d78a5)
+
+#this is my app video
+
+
+https://github.com/user-attachments/assets/26615c5d-70de-4b9f-9cca-aaa772e1c0ce
+
+
+
 
