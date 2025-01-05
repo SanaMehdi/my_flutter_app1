@@ -69,9 +69,6 @@ lib/
 
 #this is my app video
 
-
-https://github.com/user-attachments/assets/26615c5d-70de-4b9f-9cca-aaa772e1c0ce
-
-
+[sana.webm](https://github.com/user-attachments/assets/df43ff15-f039-4a3c-90f9-35ca78f33e84)
 
 
